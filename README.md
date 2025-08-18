@@ -20,7 +20,7 @@ The player competes against the computer, and scores are tracked in real time.
 ├── index.html      # Main HTML file
 ├── style.css       # Styling for the game
 ├── script.js       # Game logic (JavaScript)
-├── preview.png     # Game Preview Image
+├── Preview.png     # Game Preview Image
 └── README.md       # Project documentation
 ```
 
@@ -34,7 +34,7 @@ The player competes against the computer, and scores are tracked in real time.
 ---
 
 ## 📸 Screenshot
-![Game Screenshot](preview.png)  
+![Game Screenshot](./Preview.png)  
 
 ---
 
